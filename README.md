@@ -1,1 +1,0 @@
-# dayoook-e-server-docs
